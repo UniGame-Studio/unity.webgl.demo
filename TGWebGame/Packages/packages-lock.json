@@ -82,7 +82,7 @@
         "com.unity.2d.common": "6.0.3",
         "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
       },
-      "hash": "23a852c67a79f6ccab899ea3bf4d64aebe46e313"
+      "hash": "f3a5dc2f11c1431e8139a7f0c154b283af205ea9"
     },
     "com.unigame.fluentftp": {
       "version": "https://github.com/UnioGame/FuentFTP.git",
